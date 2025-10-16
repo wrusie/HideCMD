@@ -6,15 +6,12 @@
   Hide CMD
   <br>
 </h1>
-
-# HideCMD 
-
 This plugin allows you to edit the command interface of servers and makes it more secure.
 
 ## Plugin Features
 
 HideCMD simplifies the command interface
-* High performance system
+
 * Configurable messages and settings
 * Provides access to only certain commands
 * Open source
@@ -23,4 +20,6 @@ HideCMD simplifies the command interface
 
 1.21.8>
 
-### Installation
+### Description
+
+* The plugin was designed to be simple and performance-focused. It has two language options: Turkish and English. It's also compatible with more languages ​​and includes a extra comment line in the `languages.yml` file.
